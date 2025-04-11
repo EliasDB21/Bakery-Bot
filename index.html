@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Future’s Bakery - powered by Watson AI</title>
+  <img src="https://github.com/EliasDB21/M1_Actividad5/blob/main/View%20Menu%20(1).png?raw=true"
+       width="auto" height="1860" />
+
+
+  <script>
+    window.watsonAssistantChatOptions = {
+      integrationID: "fdf8207e-4ca6-49fd-8129-4678db188f85", // The ID of this integration.
+      region: "us-south", // The region your integration is hosted in.
+      serviceInstanceID: "8a3864ce-7310-4d86-87e8-de88bdc9748d", // The ID of your service instance.
+      onLoad: async (instance) => { await instance.render(); }
+    };
+    setTimeout(function(){
+      const t=document.createElement('script');
+      t.src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js";
+      document.head.appendChild(t);
+    });
+  </script>
+
+
+</head>
+
+<body>
+
+</body>
+
+</html>
