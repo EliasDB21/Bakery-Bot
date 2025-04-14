@@ -44,10 +44,4 @@ The chatbot is fully integrated via **IBM Watson Web Chat** and runs directly in
 
 ---
 
-## 📄 License
-
-This project is open for academic and demonstration purposes. Feel free to reuse and adapt.
-
----
-
 ### 👨‍🍳 Baked with love by Elias Del Blanco
