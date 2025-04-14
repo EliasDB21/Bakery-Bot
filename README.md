@@ -15,7 +15,7 @@ The chatbot helps users explore:
 
 The chatbot is fully integrated via **IBM Watson Web Chat** and runs directly in the browser — no backend required.
 
-🔗 Live Chatbot Access: [Click here](https://yourusername.github.io/your-repository/) *(replace with your actual GitHub Pages link once published)*
+🔗 Live Chatbot Access: [Click here][(https://yourusername.github.io/your-repository/)](https://eliasdb21.github.io/IBM-Watsonx-Assistant/)
 
 ---
 
